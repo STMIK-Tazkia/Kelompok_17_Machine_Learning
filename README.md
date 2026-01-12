@@ -6,9 +6,9 @@ Proyek ini mengeksplorasi penggunaan algoritma Machine Learning dan Deep Learnin
 👥 Anggota Kelompok (Kelompok 17)
 Program Studi Teknik Informatika - STMIK Tazkia
 
-Shanaya Balghis Riyona (241552010012) - shnvablqsr@gmail.com
+Shanaya Balghis Riyona (241552010012) - 241552010012.shanaya@student.stmik.tazkia.ac.id
 
-Thoriqurrahman Akrami (241552010013) - thoriqurrahmana@gmail.com
+Thoriqurrahman Akrami (241552010013) - 241552010014.thoriqurrahman@student.stmik.tazkia.ac.id
 
 Dosen Pengampu: Bapak Hendri Kharisma, S.Kom., M.T.
 
